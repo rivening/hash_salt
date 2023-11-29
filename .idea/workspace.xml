@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16c46cb1-5ad2-4de3-ae69-f890f63ffb8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash_salt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashSalt.java" afterDir="false" />
-    </list>
+    <list default="true" id="16c46cb1-5ad2-4de3-ae69-f890f63ffb8d" name="Changes" comment="hash_salt study" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -73,11 +66,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701231081844</updated>
-      <workItem from="1701231082854" duration="2916000" />
+      <workItem from="1701231082854" duration="3264000" />
     </task>
+    <task id="LOCAL-00001" summary="hash_salt study">
+      <option name="closed" value="true" />
+      <created>1701234037467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701234037467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hash_salt study" />
+    <option name="LAST_COMMIT_MESSAGE" value="hash_salt study" />
   </component>
 </project>
