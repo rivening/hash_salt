@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16c46cb1-5ad2-4de3-ae69-f890f63ffb8d" name="Changes" comment="hash_salt study" />
+    <list default="true" id="16c46cb1-5ad2-4de3-ae69-f890f63ffb8d" name="Changes" comment="hash_salt study">
+      <change afterPath="$PROJECT_DIR$/src/ShaSalt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ShaSalt">
     <configuration name="HashSalt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashSalt" />
       <module name="hash_salt" />
@@ -52,8 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShaSalt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShaSalt" />
+      <module name="hash_salt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShaSalt" />
         <item itemvalue="Application.HashSalt" />
       </list>
     </recent_temporary>
@@ -66,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701231081844</updated>
-      <workItem from="1701231082854" duration="3264000" />
+      <workItem from="1701231082854" duration="7230000" />
     </task>
     <task id="LOCAL-00001" summary="hash_salt study">
       <option name="closed" value="true" />
@@ -76,7 +87,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701234037467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hash_salt study">
+      <option name="closed" value="true" />
+      <created>1701234667363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701234667363</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hash_salt study">
+      <option name="closed" value="true" />
+      <created>1701234685044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701234685044</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
